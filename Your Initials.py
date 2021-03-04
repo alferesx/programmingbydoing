@@ -1,0 +1,8 @@
+print ("For the name Pedro Alferes Pinheiro")
+print ("PPPPP AAAA PPPP")
+print ("  P   A   A P  P ")
+print ("  P   A   A P  P ")
+print ("  P   AAAA  PPPP ")
+print (" P P  A   A P ")
+print (" P P  A   A P ")
+print (" PP   AAAA   P ")
