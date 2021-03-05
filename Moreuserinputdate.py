@@ -1,0 +1,13 @@
+first_name = input("What's your first name?: ")
+last_name = input("What's your last name?: ")
+grade = int(input("(9-12): "))
+student_id = int(input("ID: "))
+login = input("Login: ")
+gpa = float(input("0.0-4.0: "))
+
+print("Your information:")
+print("Login: " + login)
+print("ID: " + str(student_id))
+print("Name:  " + first_name + ", " + last_name)
+print("GPA: " + str(gpa))
+print("Grade: " + str(grade))
